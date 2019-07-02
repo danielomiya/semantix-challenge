@@ -51,13 +51,13 @@ Por linhas:
 
 1. Os 5 URLs que mais causaram erros 404
 
-    # | URL                                          | Qtd
-   ---|----------------------------------------------|-----
-    1 | /pub/winvn/readme.txt                        | 2004
-    2 | /pub/winvn/release.txt                       | 1732
-    3 | /shuttle/missions/STS-69/mission-STS-69.html | 683
-    4 | /shuttle/missions/sts-68/ksc-upclose.gif     | 428
-    5 | /history/apollo/a-001/a-001-patch-small.gif  | 384
+    \# | URL                                          | Qtd
+   ----|----------------------------------------------|-----
+    1  | /pub/winvn/readme.txt                        | 2004
+    2  | /pub/winvn/release.txt                       | 1732
+    3  | /shuttle/missions/STS-69/mission-STS-69.html | 683
+    4  | /shuttle/missions/sts-68/ksc-upclose.gif     | 428
+    5  | /history/apollo/a-001/a-001-patch-small.gif  | 384
 
 1. Quantidade de erros 404 por dia
 
