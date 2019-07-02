@@ -53,4 +53,4 @@ val sentBytes = records
   .sum
 println("Bytes enviados: " + sentBytes)
 
-System.exit(0) // termina o REPL
+System.exit(0) // exit REPL
