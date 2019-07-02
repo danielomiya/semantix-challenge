@@ -23,7 +23,7 @@ val uniqueHosts = records.map(_.host).distinct.count
 
 println
 
-println("Quantidade de hosts \u0163nicos: " + uniqueHosts) // 137978
+println("Quantidade de hosts únicos: " + uniqueHosts) // 137978
 println
 
 val errors404 = records.filter(_.statusCode.contains("404"))
